@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUkFvclsLRBv1EtLH6q7My16NvCzLMVrTmJwHA/gpu53oWjUwkw/M8TemL7o5mFavFqiuQorwSE1KoJp5MmqBg==",
+  "dgSpecHash": "0F5DoOp8XbE=",
   "success": true,
-  "projectFilePath": "/home/pp/MeteoBlazor/MeteoBlazor.csproj",
+  "projectFilePath": "/app/MeteoBlazor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
